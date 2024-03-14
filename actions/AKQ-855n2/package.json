@@ -1,7 +1,0 @@
-{
-    "dependencies": {
-        "oauth-1.0a": "latest",
-        "request-promise": "latest",
-        "request": "latest"
-    }
-}
